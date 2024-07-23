@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', (event) => {
     const cards = [
-        { id: 1, order: 1, videoSrc: 'video1.mp4' },
+        { id: 1, order: 1, videoSrc: 'https://www.youtube.com/embed/5bLEDd-PSTQ?si=V1ncW2RQbIFsOhSv' },
         { id: 2, order: 2, videoSrc: 'video2.mp4' },
         { id: 3, order: 3, videoSrc: 'video3.mp4' },
         { id: 4, order: 4, videoSrc: 'video4.mp4' }
